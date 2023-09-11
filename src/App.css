@@ -1,0 +1,17 @@
+
+.signin{
+    color: antiquewhite;
+    padding-bottom: 6rem;
+    font-size: 3rem;
+    padding-top: 3rem;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    color: tomato;
+    font-weight: bolder;
+}
+.icon{
+    fill: tomato;
+    width: 5rem;
+    height: 5rem;
+    align-content: start;
+}
